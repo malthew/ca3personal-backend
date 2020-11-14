@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/MiaSimone/CA3-Backend.svg?branch=master)](https://travis-ci.com/MiaSimone/CA3-Backend)
+[![Build Status](https://travis-ci.com/malthew/ca3personal-backend.svg?branch=main)](https://travis-ci.com/malthew/ca3personal-backend)
 
 # Getting Started
 
